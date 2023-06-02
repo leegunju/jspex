@@ -1,0 +1,13 @@
+
+5월 22, 2023 09:49:06.527 NEW SESSION
+5월 22, 2023 09:49:06.527 [2156:10676:0522/094906.525:ERROR:interface_endpoint_client.cc(696)] Message 1 rejected by interface blink.mojom.WidgetHost
+5월 22, 2023 09:49:06.527 [2156:10676:0522/094906.525:ERROR:interface_endpoint_client.cc(696)] Message 1 rejected by interface blink.mojom.WidgetHost
+5월 22, 2023 09:49:06.527 [2156:10676:0522/094906.525:ERROR:interface_endpoint_client.cc(696)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+5월 22, 2023 12:32:48.468 NEW SESSION
+5월 22, 2023 12:32:48.468 [5892:9288:0522/123248.467:ERROR:interface_endpoint_client.cc(696)] Message 1 rejected by interface blink.mojom.WidgetHost
+5월 22, 2023 12:35:35.354 [5892:9288:0522/123535.354:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.764187 s for first_image_paint 0.750187 s
+5월 22, 2023 12:35:36.378 [5892:9288:0522/123536.377:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.764187 s for first_image_paint 0.750187 s
+5월 22, 2023 12:36:17.277 [5892:9288:0522/123617.277:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.764187 s for first_image_paint 0.750187 s
+5월 22, 2023 12:36:17.766 [5892:9288:0522/123617.766:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.764187 s for first_image_paint 0.750187 s
+5월 22, 2023 12:40:48.465 [5892:9288:0522/124048.465:ERROR:interface_endpoint_client.cc(696)] Message 1 rejected by interface blink.mojom.WidgetHost
